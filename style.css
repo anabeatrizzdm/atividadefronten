@@ -1,0 +1,55 @@
+.custom-image-size{
+    width: 1570px;
+    height: 700px;
+  }
+
+.nav-link{
+    color: #ffffff;
+}
+
+a:hover {
+    color: #000000;
+}
+
+.navbar{
+    padding: 10px;
+    margin: 10px;
+    border-width: 10px;
+    border-color: white;
+    border-radius: 10px;
+    height: 50px;
+}
+
+#shadow{
+    box-shadow: 0px 0px 8px 2px #000000;
+}
+
+#shadow2{
+    box-shadow: 0px 0px 8px 2px #000000;
+}
+
+.paragrafo{
+    padding: 10px;
+    margin: 10px;
+    border-style: solid;
+    border-width: 15px;
+    border-radius: 10px;
+    border-color: #ffffff;
+    background-color: rgb(201, 199, 199);
+}
+
+.paragrafo2{
+    background-color: aquamarine;
+}
+
+.body{
+    background-color: rgb(109, 109, 109);
+}
+
+.credito{
+    background-color: #000000;
+    text-align: center;
+    color: #ffffff;
+    height: 30px;
+}
+
